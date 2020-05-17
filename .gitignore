@@ -1,2 +1,5 @@
 # exclude secrets
 secrets.h
+
+# exclude vscode settings
+.vscode/**
